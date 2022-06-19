@@ -272,3 +272,7 @@ form .form-control {
 .footer-bottom .bxs-up-arrow {
     color: #fff;
 }
+
+.footer-bottom .bxs-heart {
+    color: red;
+}
